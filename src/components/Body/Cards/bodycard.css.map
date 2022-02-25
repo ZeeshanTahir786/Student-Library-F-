@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,MAAM;EACjB,eAAe,EAAE,aAAa;EAC9B,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,GAAG;CAChB",
+    "sources": [
+        "bodycard.scss"
+    ],
+    "names": [],
+    "file": "bodycard.css"
+}

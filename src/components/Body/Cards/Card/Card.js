@@ -51,7 +51,7 @@ const CardB = () => {
       <CardMedia
         component="img"
         height="194"
-        image="/static/images/cards/paella.jpg"
+        image="https://media.wired.com/photos/5be4cd03db23f3775e466767/master/pass/books-521812297.jpg"
         alt="Paella dish"
       />
       <CardContent>
