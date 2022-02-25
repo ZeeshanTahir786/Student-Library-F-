@@ -1,0 +1,40 @@
+.navCon {
+  background-color: #153d72;
+  height: 8vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0 2vw;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 999;
+  top: 0;
+}
+
+.navCon .logo {
+  font-size: 2.5vh;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-family: "Roboto", sans-serif;
+}
+
+.navCon .student {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.navCon .book {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+}
+/*# sourceMappingURL=navbar.css.map */

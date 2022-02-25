@@ -1,0 +1,29 @@
+.navCon {
+  background-color: rgb(21, 61, 114);
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2vw;
+  align-items: center;
+  position: sticky;
+  z-index: 999;
+  top: 0;
+  .logo {
+    font-size: 2.5vh;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: "Roboto", sans-serif;
+  }
+  .student {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .book {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+  }
+}
